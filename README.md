@@ -10,6 +10,9 @@
 
 ![](media/design/png/dtp-main-p2.png)
 
+# This is a rebranding of Dash to Dock for borderOS.
+This is a rebranding of Dash to Dock for the Linux distro, borderOS. This is identical to Dash to Dock other than the name change. This name change is done to reduce confusion when someone installs either GNOME Tweaks, or the GNOME Extensions app.
+
 ### Introduction
 
 Dash to Panel is an icon taskbar for Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found in KDE Plasma and Windows 7+. A separate dock is no longer needed for easy access to running and favorited applications. 
